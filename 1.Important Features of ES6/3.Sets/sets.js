@@ -34,7 +34,7 @@ const myArray = ['value1', 'value2', 'value3'];
     console.log([...new Set(newArr)]);
 
 // Relation to Strings
-    // case sensitve (Set will contain both Capital and small letter which is repated)
+    // case sensitve (Set will contain both Capital and Small letter which is repated)
     console.log(new Set("Aeroplane"));
     console.log(new Set("aeroplane")); // in the output second a will be removed
 

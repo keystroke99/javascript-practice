@@ -1,6 +1,6 @@
 /* ** Template literals  or Template strings **
-    Template literals are strig literals allowing embedded expressions
-    Benefitsß:
+    Template literals are string literals allowing embedded expressions
+    Benefits:
         1.String interpolation
         2.Embedded expressions
         3.Multiline strings without hacks
